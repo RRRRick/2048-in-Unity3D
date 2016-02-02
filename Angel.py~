@@ -1,6 +1,6 @@
 import Queue
 
-initial_page = "http://www.weibo.com"
+initial_page = "http://www."
 
 url_queue = Queue.Queue()
 seen = set()
